@@ -20,10 +20,10 @@ CSCI 497 Senior Project Design
 - This project will be a free video editing desktop application that focuses on simplicity and usability. Users will have access to a number of common features such as video trimming, intro and outro creation, and audio dubbing, all contained in a user-friendly GUI.
 
 - [ ] Proposed Implementation Language(s) :octocat:
-- This project will be implemented using C++ and Python.
+- This project was implemented using C++.
 
 - [ ] Libraries, Packages, Development Kits, etc. to be used in in the proposed implementation languages(s) :wrench:
-- I will be using either Qt or Electron JS as frameworks to build my desktop application.
+- I used Qt Creator as a framework to build my desktop application with FFmpeg as a multimedia processing library.
 
 - [ ] Additional Software/Equipment Needed :computer::joystick:
 - The only equipment needed is a PC running Windows.

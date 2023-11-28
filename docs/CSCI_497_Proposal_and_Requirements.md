@@ -23,10 +23,10 @@ CSCI 497 Senior Project Design
 - This project was implemented using C++.
 
 - [ ] Libraries, Packages, Development Kits, etc. to be used in in the proposed implementation languages(s) :wrench:
-- I used Qt Creator as a framework to build my desktop application with FFmpeg as a multimedia processing library.
+- I used Qt Creator 5.15.2 as a framework to build my desktop application with FFmpeg as a multimedia processing library.
 
 - [ ] Additional Software/Equipment Needed :computer::joystick:
-- The only equipment needed is a PC running Windows.
+- The only equipment needed is a PC running Windows 10. In addition to FFmpeg, the K-Lite Basic Codec Pack is necessary to run the application.
 
 - [ ] Personal Motivation :cake:  
 - This project is highly motivated by my personal experiences with the issues described in my problem statement. As a result, I have a strong interest in using this application myself. Additionally, this project presents a significant opportunity for me to expand my knowledge and experience in the field of computer science. By utilizing new frameworks to build my most complex program yet, I will gain valuable skills and insights that will benefit me both personally and professionally.

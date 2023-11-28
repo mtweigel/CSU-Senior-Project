@@ -26,6 +26,7 @@ You should be able to run FlickFix at this point. If not, please contact me with
 
 <br><br>
 
+### How to build FlickFix:
 If you want to to build the project yourself, this you how you can do that:
 1. Download Qt Creator 5.15.2.
 2. Download the all of the files found in src: https://github.com/mtweigel/CSU-Senior-Project/tree/master/src

@@ -24,7 +24,7 @@ Download FlickFix.exe
 
 You should be able to run FlickFix at this point. If not, please contact me with your issue.
 
-<br><br>
+<br>
 
 ### How to build FlickFix:
 If you want to to build the project yourself, this you how you can do that:

@@ -24,8 +24,7 @@ Download FlickFix.exe
 
 You should be able to run FlickFix at this point. If not, please contact me with your issue.
 
-
-
+<br><br>
 
 If you want to to build the project yourself, this you how you can do that:
 1. Download Qt Creator 5.15.2.

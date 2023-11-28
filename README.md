@@ -20,9 +20,11 @@ Get K-Lite Codec Pack
 2. Install with default options.
 
 Download FlickFix.exe
-https://github.com/mtweigel/CSU-Senior-Project/blob/master/src/FlickFix.exe
+- https://github.com/mtweigel/CSU-Senior-Project/blob/master/src/FlickFix.exe
 
 You should be able to run FlickFix at this point. If not, please contact me with your issue.
+
+
 
 
 If you want to to build the project yourself, this you how you can do that:

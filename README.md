@@ -11,8 +11,9 @@ Get FFmpeg
 2. Extract and move contents to a new directory C:\ffmpeg
 3. Go to 'Edit the system environment variables' in Windows.
 4. Click on 'Advanced system settings'.
-5. Under 'System variables' click 'Path' and 'Edit'.
-6. Add the path C:\ffmpeg\bin
+5. Under 'System variables', click 'Path'.
+6. Click 'Edit' and 'New'.
+7. Add the path C:\ffmpeg\bin
 
 Get K-Lite Codec Pack
 1. Download K-Lite Codec Basic: https://codecguide.com/download_k-lite_codec_pack_basic.htm
@@ -22,7 +23,6 @@ Download FlickFix.exe
 https://github.com/mtweigel/CSU-Senior-Project/blob/master/src/FlickFix.exe
 
 You should be able to run FlickFix at this point. If not, please contact me with your issue.
-
 
 
 If you want to to build the project yourself, this you how you can do that:

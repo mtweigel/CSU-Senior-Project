@@ -1,4 +1,4 @@
-### Proposal
+# Proposal
 
 - [ ] Name: Matthew Weigel :man:
 

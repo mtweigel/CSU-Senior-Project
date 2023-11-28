@@ -34,10 +34,6 @@ If you want to to build the project yourself, this you how you can do that:
 4. In Qt Creator, open the file FlickFix.pro.
 5. Build and Run.
 
-## Usage
-
-## Options
-
 ## Testing
 
 Test Case Document: https://docs.google.com/spreadsheets/d/1AKGEy2gAnmjuKqQM1qJmJLxnYHLELVpD3hXlkFgVaD0/edit?usp=sharing

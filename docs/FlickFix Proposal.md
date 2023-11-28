@@ -1,4 +1,4 @@
-# Proposal
+# FlickFix Proposal
 
 - [ ] Name: Matthew Weigel :man:
 

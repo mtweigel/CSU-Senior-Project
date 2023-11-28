@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons8-undo-24.png</file>
+        <file>icons8-redo-24.png</file>
+        <file>icons8-save-50.png</file>
+        <file>icons8-download-64.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>volume.png</file>
+        <file>seek_backward.png</file>
+        <file>seek_forward.png</file>
+        <file>duration_slider.png</file>
+        <file>volume_slider.png</file>
+        <file>dark_mode.png</file>
+        <file>edit_color.png</file>
+        <file>edit_font.png</file>
+        <file>intro_editor.png</file>
+    </qresource>
+</RCC>

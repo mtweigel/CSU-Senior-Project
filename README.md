@@ -28,11 +28,12 @@ You should be able to run FlickFix at this point. If not, please contact me with
 
 ### How to build FlickFix:
 If you want to to build the project yourself, this you how you can do that:
-1. Download Qt Creator 5.15.2.
-2. Download the all of the files found in src: https://github.com/mtweigel/CSU-Senior-Project/tree/master/src
-3. Place them together in a single folder called FlickFix.
-4. In Qt Creator, open the file FlickFix.pro.
-5. Build and Run.
+1. Download FFmpeg and K-Lite Codec.
+2. Download Qt Creator 5.15.2.
+3. Download the all of the files found in src: https://github.com/mtweigel/CSU-Senior-Project/tree/master/src
+4. Place them together in a single folder called FlickFix.
+5. In Qt Creator, open the file FlickFix.pro.
+6. Build and Run.
 
 ## Testing
 

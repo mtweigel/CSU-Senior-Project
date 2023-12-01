@@ -19,8 +19,11 @@ Get K-Lite Codec Pack
 1. Download K-Lite Codec Basic: https://codecguide.com/download_k-lite_codec_pack_basic.htm
 2. Install with default options.
 
-Download FlickFix.exe
-- https://github.com/mtweigel/CSU-Senior-Project/blob/master/src/FlickFix.exe
+Install FlickFix
+1. Download installer: https://github.com/mtweigel/CSU-Senior-Project/blob/master/FlickFix.exe
+2. Install and Run
+
+Note: this may be detected as unsafe by Windows Defender, so you may need to temporarily disable it to install.
 
 You should be able to run FlickFix at this point. If not, please contact me with your issue.
 

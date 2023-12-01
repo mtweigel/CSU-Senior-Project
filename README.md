@@ -23,7 +23,7 @@ Install FlickFix
 1. Download installer: https://github.com/mtweigel/CSU-Senior-Project/blob/master/FlickFix.exe
 2. Install and Run
 
-Note: this may be detected as unsafe by Windows Defender, so you may need to temporarily disable it to install.
+Note: this is being detected as unsafe by Windows Defender, so you will need to temporarily disable real time virus detection to install, sketchy I know. Still looking into a fix.
 
 You should be able to run FlickFix at this point. If not, please contact me with your issue.
 

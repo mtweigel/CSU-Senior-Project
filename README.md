@@ -1,7 +1,6 @@
 # FlickFix
 
-FlickFix is a free video editing desktop application that emphasizes simplicity and ease-of-use. FlickFix aims to offer an intuitive and user-friendly video editing experience by streamlining the platform to include only the essential features. By adopting this approach, even novice editors can effortlessly edit videos without feeling intimidated or overwhelmed. Users will have access to a number of common features such as video trimming, intro and outro creation, and audio dubbing, all contained in a user-friendly GUI.
-
+FlickFix is a free video editing desktop application emphasizing simplicity and ease of use. FlickFix aims to offer an intuitive and user-friendly video editing experience by streamlining the platform to include only the essential features. This approach allows even novice editors to edit videos without feeling intimidated or overwhelmed. Users can access several common features such as video trimming, intro and outro creation, and audio dubbing, all within a user-friendly GUI.
 ## Build/Deploy
 
 ### How to run FlickFix:
@@ -23,17 +22,17 @@ Install FlickFix
 1. Download installer: https://github.com/mtweigel/CSU-Senior-Project/blob/master/FlickFix.exe
 2. Install and Run
 
-Note: this is being detected as unsafe by Windows Defender, so you will need to temporarily disable real time virus detection to install. Sketchy, I know. Still looking into a fix.
+Note: This is being detected as unsafe by Windows Defender, so you will need to temporarily disable real time virus detection to install. Sketchy, I know but this happens because I have not purchased a digital certificate. 
 
 You should be able to run FlickFix at this point. If not, please contact me with your issue.
 
 <br>
 
 ### How to build FlickFix:
-If you want to to build the project yourself, this you how you can do that:
+If you want to build the project yourself, this is how you can do that:
 1. Download FFmpeg and K-Lite Codec.
 2. Download Qt Creator 5.15.2.
-3. Download the all of the files found in src: https://github.com/mtweigel/CSU-Senior-Project/tree/master/src
+3. Download all of the files found in src: https://github.com/mtweigel/CSU-Senior-Project/tree/master/src
 4. Place them together in a single folder called FlickFix.
 5. In Qt Creator, open the file FlickFix.pro.
 6. Build and Run.
